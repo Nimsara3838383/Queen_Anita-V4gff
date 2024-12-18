@@ -1,5 +1,5 @@
 global.owner = [
-  "2347043759577",
+  "94715970224",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
@@ -43,7 +43,7 @@ global.unavailable = true;
 //to show your real presence  
 global.available = false;   
 // to show always online  
-global.autoreadmessages = false;   
+global.autoreadmessages = true;   
 ///To always read messages
 global.chatbot = false;
 global.autoreact = false;
